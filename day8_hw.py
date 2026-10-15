@@ -43,7 +43,7 @@ class MultiTrainer(Trainer, YogaInstructor):
         print("Yoga Style:", self.yoga_style)
 
 
-# Creating objects
+
 e1 = Employee("Arun", "Staff")
 t1 = Trainer("Rahul", "Fitness Trainer", "Weight Training")
 y1 = YogaInstructor("Anu", "Yoga Instructor", "Hatha Yoga")
